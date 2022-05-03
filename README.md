@@ -2,10 +2,10 @@
 
 #### I'm studying to be a scientist and developer.
 
-- ✨ You can find my main publications here https://orcid.org/0000-0001-6670-4762 
-- 🔭 I’m currently working on a Chronobiology project with my team (sites.usp.br/labicrono)
+- ✨ You can find my main publications <a href="https://orcid.org/0000-0001-6670-4762">here</a>  
+- 🔭 I’m currently working on a Chronobiology project with my team (<a href="https://sites.usp.br/labicrono">see more</a>)
 - 🌱 I’m currently learning HTML, CSS and JavaScript;
-- ⚡ Fun fact: I did more than 10 excursions to Argentina, but visited very few touristic attractions so far...
+- ⚡ Fun fact: I did more than 10 excursions to Argentina, but visited very few touristic attractions so far.
 
 <!--
 **MileneGJ/MileneGJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
